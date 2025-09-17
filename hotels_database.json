@@ -1,0 +1,42 @@
+[
+  {
+    "location": "Paris",
+    "price_per_night": 100,
+    "features": [
+      "Wi-Fi",
+      "parking"
+    ],
+    "rating": 4.5,
+    "availability": true
+  },
+  {
+    "location": "Paris",
+    "price_per_night": 120,
+    "features": [
+      "Wi-Fi",
+      "climatisation"
+    ],
+    "rating": 4.0,
+    "availability": true
+  },
+  {
+    "location": "Paris",
+    "price_per_night": 150,
+    "features": [
+      "Wi-Fi",
+      "spa",
+      "piscine"
+    ],
+    "rating": 5.0,
+    "availability": true
+  },
+  {
+    "location": "Lyon",
+    "price_per_night": 80,
+    "features": [
+      "Wi-Fi"
+    ],
+    "rating": 3.5,
+    "availability": true
+  }
+]
